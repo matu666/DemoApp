@@ -7,6 +7,10 @@
             "description": "UUID",
             "value": "ad806487-2d26-4636-98b6-ab85cc8521f7"
         },
+        "AlterId": {
+            "description": "alterId",
+            "value": "19"
+        },
         "WSPATH": {
             "description": "WebSocket Path",
             "value": "/"
