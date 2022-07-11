@@ -1,18 +1,18 @@
 {
     "name": "Demo",
     "description": "Deploy Demo on Heroku.",
-    "keywords": ["V2Ray"],
+    "keywords": ["Demo"],
     "env": {
         "ID": {
             "description": "UUID",
-            "value": "ad806487-2d26-4636-98b6-ab85cc8521f7"
+            "value": "e96a3dcd-4ea6-4bbe-c516-1d217fe37b93"
         },
         "WSPATH": {
             "description": "WebSocket Path",
             "value": "/"
         }
     },
-    "website": "https://github.com/",
-    "repository": "https://github.com/",
+    "website": "https://github.com/matu666",
+    "repository": "https://github.com/matu666",
     "stack": "container"
 }
